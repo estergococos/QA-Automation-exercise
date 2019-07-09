@@ -1,0 +1,1 @@
+- If you want to execute the test, execute launch-test.bat. Reports will open when test ends.
