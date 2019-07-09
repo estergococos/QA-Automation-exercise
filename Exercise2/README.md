@@ -1,1 +1,2 @@
-- If you want to execute the test, execute launch-test.bat. Reports will open when test ends.
+- If you want to execute the test, execute launch-test.bat.
+- Reports will open when test ends. If not, reports will be on .\reports\cucumber-html-report\index.html
